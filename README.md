@@ -3,6 +3,9 @@ Field of Consultancy: Forecast the US unemployment rate and introduce S&P 500 In
 
 
 Selected Methods
+
 Data-driven methods: naive forecasts & smoothing methods 
+
 Model-based methods: ARIMA 
+
 Intended Audience: Policy makers, economic researchers
